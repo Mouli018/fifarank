@@ -11,7 +11,7 @@ from sklearn.feature_selection import SelectKBest, f_classif
 import joblib
 
 # Load the dataset
-fifa_data = pd.read_csv(r"C:\Users\mouli\OneDrive\Documents\fifa dataset.csv")
+fifa_data = pd.read_csv(r"fifa dataset.csv")
 
 # Data Preprocessing
 fifa_data['rank_date'] = pd.to_datetime(fifa_data['rank_date'])
