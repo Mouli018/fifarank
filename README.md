@@ -4,6 +4,7 @@ This web application predicts the FIFA rankings of football teams based on past 
 
 ## Table of Contents
 - [Overview](#overview)
+- [Dataset Overview](#datasetoverview)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -14,6 +15,10 @@ This web application predicts the FIFA rankings of football teams based on past 
 ## Overview
 
 The FIFA Ranking Prediction App allows users to input match data and predict the FIFA rankings of football teams. The app is built using machine learning models to analyze historical data and make predictions. This application is deployed using **Streamlit** and is available as a web-based tool.
+
+## Dataset Overview
+The dataset consists of historical FIFA ranking data, which includes over 17,000 records of national football teams. Key variables in this dataset include total points, previous points, rank, and the confederation to which each team belongs. One of the challenges we encountered was handling missing data and managing regional biases, particularly since teams from different confederations participate in varying numbers of international matches, affecting their ranking opportunities.
+
 
 ## Features
 
