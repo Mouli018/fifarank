@@ -61,7 +61,7 @@ Input historical match data (e.g., teams, goals scored, match results) to predic
 
 ## Technologies
 Programming Language: Python
-Libraries: Streamlit, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
+Libraries:Streamlit, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
 Deployment: Streamlit Cloud
 
 ##License
