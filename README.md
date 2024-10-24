@@ -30,8 +30,10 @@ The dataset consists of historical FIFA ranking data, which includes over 17,000
 ## Installation
 
 To run this project locally, follow these steps:
+1.Python Version:
+   Python 3.12.7
 
-1. Clone the repository:
+2.Clone the repository:
    #bash
    git clone https://github.com/Mouli018/FIFA-Ranking-Prediction-App.git
 
