@@ -42,17 +42,15 @@ iii)Install the required dependencies:
 bash
 pip install -r requirements.txt
 
-##Usage
+## Usage
 To run the app locally, execute the following command:
-
 bash
 streamlit run streamlit_app.py
 This will start the Streamlit web app, which you can access locally in your browser at http://localhost:8501.
-
-##Input
+## Input
 Input historical match data (e.g., teams, goals scored, match results) to predict FIFA rankings.
 
-##Technologies
+## Technologies
 Programming Language: Python
 Libraries: Streamlit, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
 Deployment: Streamlit Cloud
