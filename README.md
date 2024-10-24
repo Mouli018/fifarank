@@ -7,6 +7,7 @@ This web application predicts the FIFA rankings of football teams based on past 
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Output](#output)
 - [Technologies](#technologies)
 - [License](#license)
 
@@ -49,6 +50,14 @@ streamlit run streamlit_app.py
 This will start the Streamlit web app, which you can access locally in your browser at http://localhost:8501.
 ## Input
 Input historical match data (e.g., teams, goals scored, match results) to predict FIFA rankings.
+## Output
+![image](https://github.com/user-attachments/assets/81b509b5-a145-48c1-89a3-cce26f947646)
+![image](https://github.com/user-attachments/assets/0dcfefc6-ecf0-4eee-8741-c6dbdb294503)
+![image](https://github.com/user-attachments/assets/1b127cce-b313-4275-b61f-c51e56492f3b)
+![image](https://github.com/user-attachments/assets/a8767a44-4f05-4223-aed2-5a77639ce034)
+![image](https://github.com/user-attachments/assets/e0b49693-7ac3-4f2c-8571-0d1ab2b8945c)
+![image](https://github.com/user-attachments/assets/fbcc5762-459a-420a-9bbe-0034a3cc253e)
+![image](https://github.com/user-attachments/assets/b152938c-d3ad-4b4c-b611-469a21e97080)
 
 ## Technologies
 Programming Language: Python
